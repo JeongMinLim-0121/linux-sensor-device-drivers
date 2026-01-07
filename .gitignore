@@ -1,0 +1,13 @@
+*.o
+*.ko
+*.mod*
+*.cmd
+*.tmp
+*.zip
+*.mp4
+*.png
+*.jpg
+*.pdf
+/build/
+/bin/
+11조_유종민_임정민_허진경_device_drover/
