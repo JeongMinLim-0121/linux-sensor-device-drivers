@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/cf1690ff-f7f9-4f45-9d17-bac4cddd5973
 
 ---
 ## 🧠 3. 전자 회로도
-
+> STM32 MCU를 중심으로 센서(DHT11), OLED, RTC 모듈이 연결된 하드웨어 구성
 <img width="1362" height="733" alt="전기 회로도" src="https://github.com/user-attachments/assets/ba7d6524-b904-46c0-93a3-5b1c211bc0f9" />
 
  ---
